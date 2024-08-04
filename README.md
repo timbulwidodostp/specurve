@@ -1,6 +1,8 @@
 # specurve
 Specification curve analysis and generate output plots Use specurve With STATA 18
 
+https://www.youtube.com/watch?v=bPhGX7W-M2w
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
